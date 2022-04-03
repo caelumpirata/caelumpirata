@@ -1,5 +1,5 @@
 <p align="center">
-    <b>👋 I'm Caelum Pirata </b>
+    <h1>👋 I'm Caelum Pirata </h1>
 </p>
   
 <p align="center">
