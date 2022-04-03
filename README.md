@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![gif](https://user-images.githubusercontent.com/85424262/161450383-3819ea87-0086-488c-81fc-e840c53b7007.gif)
 
-![nodedotjs](https://user-images.githubusercontent.com/85424262/161450581-8a1f67ce-108f-4d3c-bfd0-2d809e9bf7d4.svg)
+<a href="URL_REDIRECT" target="blank"><img align="center" src=" https://user-images.githubusercontent.com/85424262/161450581-8a1f67ce-108f-4d3c-bfd0-2d809e9bf7d4.svg " height="100" /></a>
