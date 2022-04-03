@@ -1,20 +1,15 @@
-###                                                         Hi👋 I'm Caelum Pirata
+### Hi👋 I'm Caelum Pirata
 
-<!--
 **caelumpirata/caelumpirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on E-voting System.
+- 🌱 I’m currently learning React.js.
+- 👯 I’m looking to collaborate on web development, MERN stack to be specific.
+- 🤔 I’m looking for help with custom rom development for android.
+- 💬 Ask me about node.js, C++.
+- 📫 How to reach me: username@gmail.com
+- 😄 Pronouns: BTB
+- ⚡ Fun fact: i like listening to music and playing video games (BGMI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![gif](https://user-images.githubusercontent.com/85424262/161450383-3819ea87-0086-488c-81fc-e840c53b7007.gif)
-
-<a href="URL_REDIRECT" target="blank"><img align="center" src=" https://user-images.githubusercontent.com/85424262/161450581-8a1f67ce-108f-4d3c-bfd0-2d809e9bf7d4.svg " height="100" /></a>
