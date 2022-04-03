@@ -1,7 +1,14 @@
-### Hi👋 I'm Caelum Pirata
+<p align="center">
+  ### Hi👋 I'm Caelum Pirata
+</p>
+
+
 
 **caelumpirata/caelumpirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![gif](https://user-images.githubusercontent.com/85424262/161450383-3819ea87-0086-488c-81fc-e840c53b7007.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85424262/161450383-3819ea87-0086-488c-81fc-e840c53b7007.gif"/>
+</p>
+
 
 - 🔭 I’m currently working on E-voting System.
 - 🌱 I’m currently learning React.js.
@@ -14,6 +21,3 @@
 
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/85424262/161450383-3819ea87-0086-488c-81fc-e840c53b7007.gif"/>
-</p>
