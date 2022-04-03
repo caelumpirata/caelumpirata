@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="  
-![gif](https://user-images.githubusercontent.com/85424262/161450383-3819ea87-0086-488c-81fc-e840c53b7007.gif)  " height="100" /></a>
+![gif](https://user-images.githubusercontent.com/85424262/161450383-3819ea87-0086-488c-81fc-e840c53b7007.gif)
 
