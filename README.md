@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on web development, MERN stack to be specific.
 - 🤔 I’m looking for help with custom rom development for android.
 - 💬 Ask me about node.js, C++.
-- 📫 How to reach me: username@gmail.com
+- 📫 How to reach me: caelumpirata@gmail.com
 - 😄 Pronouns: BTB
 - ⚡ Fun fact: i like listening to music and playing video games (BGMI)
 
